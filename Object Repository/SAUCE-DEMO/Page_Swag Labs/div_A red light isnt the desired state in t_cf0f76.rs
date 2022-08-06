@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_A red light isnt the desired state in t_cf0f76</name>
+   <tag></tag>
+   <elementGuidId>a5fd4a32-da27-4a4f-80be-599d7d04a4ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory_container']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3ae34ce-2764-49ac-9b57-b6163b31910f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_desc</value>
+      <webElementGuid>8f87df46-79f4-43ce-b1fa-ad722bb86b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.</value>
+      <webElementGuid>5ccea562-e5ac-4170-b86c-68d63c2455f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents_wrapper&quot;)/div[@id=&quot;inventory_container&quot;]/div[1]/div[@id=&quot;inventory_container&quot;]/div[@class=&quot;inventory_list&quot;]/div[@class=&quot;inventory_item&quot;]/div[@class=&quot;inventory_item_description&quot;]/div[@class=&quot;inventory_item_label&quot;]/div[@class=&quot;inventory_item_desc&quot;]</value>
+      <webElementGuid>546cab9a-3449-4dd6-9689-96aaaa86c0be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory_container']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>6985def1-0c4e-479d-a985-23a54845c2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Bike Light'])[1]/following::div[1]</value>
+      <webElementGuid>c0e4f1e2-f658-4031-8f0d-20814e7c12a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::div[6]</value>
+      <webElementGuid>7423e587-d104-4679-8a2f-2925b21c9b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/preceding::div[1]</value>
+      <webElementGuid>433c5b41-96ef-4aa7-b014-63761f9e88f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::div[2]</value>
+      <webElementGuid>49634a0c-0307-41e8-bb4a-c7ab1e60e331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>aaeb6154-f74a-49c2-947f-a8543a9b1e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;A red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.&quot;) or . = concat(&quot;A red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.&quot;))]</value>
+      <webElementGuid>dea18bb8-7a35-443a-8b75-b237958f55f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

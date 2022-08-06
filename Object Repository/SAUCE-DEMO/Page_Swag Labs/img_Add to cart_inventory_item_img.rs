@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Add to cart_inventory_item_img</name>
+   <tag></tag>
+   <elementGuidId>d1aac3cc-8d8f-448d-a0a7-aea1a57b584e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='item_1_img_link']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item_1_img_link > img.inventory_item_img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1eb7d314-2f14-4abc-9db3-625fa110036f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sauce Labs Bolt T-Shirt</value>
+      <webElementGuid>f4155092-5f6f-4f06-ba2c-16de3e9ac041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_img</value>
+      <webElementGuid>4ca0088a-7455-46be-bfa3-acd9accf6d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/bolt-shirt-1200x1500.c0dae290.jpg</value>
+      <webElementGuid>1968c35f-d2ae-4780-9254-5453dfa48bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_1_img_link&quot;)/img[@class=&quot;inventory_item_img&quot;]</value>
+      <webElementGuid>91496ef6-ec6b-47e5-819e-53da87bef742</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='item_1_img_link']/img</value>
+      <webElementGuid>8374d83b-87e7-4824-9b61-2cf8200dc7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::img[1]</value>
+      <webElementGuid>14bbea57-96b8-4c52-938d-8333a6e770d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/following::img[1]</value>
+      <webElementGuid>ecb292bb-4828-4707-acf9-23c1453d15d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Bolt T-Shirt'])[1]/preceding::img[1]</value>
+      <webElementGuid>96301ff1-59ff-4575-88ee-5f568b547f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/preceding::img[1]</value>
+      <webElementGuid>e61c331a-ccc7-403a-a975-de3c53df2e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sauce Labs Bolt T-Shirt']</value>
+      <webElementGuid>d1d2264a-4f60-4f8d-bede-4fafa1d46970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>fa3a942a-dacb-4ebc-8a89-5a725868ed84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Sauce Labs Bolt T-Shirt' and @src = '/static/media/bolt-shirt-1200x1500.c0dae290.jpg']</value>
+      <webElementGuid>80503a8b-a1fd-4bd3-99c9-7339f7c668b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

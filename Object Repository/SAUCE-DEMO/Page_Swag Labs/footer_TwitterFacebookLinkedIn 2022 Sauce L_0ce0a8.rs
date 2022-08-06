@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_TwitterFacebookLinkedIn 2022 Sauce L_0ce0a8</name>
+   <tag></tag>
+   <elementGuidId>88461ba6-75c5-45df-9ade-2dcb46f7d273</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page_wrapper']/footer</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>footer.footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>f91c8e60-4944-4312-996a-98e368a039cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>e2d4968f-c4d0-4eba-a919-778cfbfe3557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TwitterFacebookLinkedIn© 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy</value>
+      <webElementGuid>df9a3de3-04f5-4bcd-aa0d-a74db5829f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_wrapper&quot;)/footer[@class=&quot;footer&quot;]</value>
+      <webElementGuid>06963a8e-7c92-4d4c-85a4-a9c48197fafe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page_wrapper']/footer</value>
+      <webElementGuid>b818a17e-a3a9-4fbb-ae7e-12d231653c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::footer[1]</value>
+      <webElementGuid>c48d47a5-83a3-4eb4-b386-3e4dd0e64458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/following::footer[1]</value>
+      <webElementGuid>070d1a80-4000-4609-9ed3-fbf63a844040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>0cd72fd7-a055-4283-beaf-40b1ce534d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = 'TwitterFacebookLinkedIn© 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy' or . = 'TwitterFacebookLinkedIn© 2022 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy')]</value>
+      <webElementGuid>04f84830-7ac0-4dc7-a975-cdc379ede697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

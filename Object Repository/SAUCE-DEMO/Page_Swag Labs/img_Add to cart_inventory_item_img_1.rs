@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Add to cart_inventory_item_img_1</name>
+   <tag></tag>
+   <elementGuidId>94a68444-bf84-41bd-97e8-e3d3ea7d1809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='item_3_img_link']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item_3_img_link > img.inventory_item_img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>498de466-92db-4e31-869f-cc1bc0594792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Test.allTheThings() T-Shirt (Red)</value>
+      <webElementGuid>c4c87b39-633e-452a-bfa9-b9cfcdce7db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_img</value>
+      <webElementGuid>520a258a-19c0-47c2-95e5-d71fb584b7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/red-tatt-1200x1500.e32b4ef9.jpg</value>
+      <webElementGuid>1dc43d91-740a-4518-a98e-bcb92754ca91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_3_img_link&quot;)/img[@class=&quot;inventory_item_img&quot;]</value>
+      <webElementGuid>2ee752c9-806e-4d01-93d2-5ee486c251e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='item_3_img_link']/img</value>
+      <webElementGuid>b73295c1-bee8-497c-8bc0-c585882b70a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[3]/following::img[1]</value>
+      <webElementGuid>495f88da-711b-4ba9-a46f-cea6c2747ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$7.99'])[1]/following::img[1]</value>
+      <webElementGuid>e17844f5-7b2d-41b8-bf86-23c183c270ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test.allTheThings() T-Shirt (Red)'])[1]/preceding::img[1]</value>
+      <webElementGuid>b1c79dd9-7166-4814-9336-cb85571e4506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[2]/preceding::img[1]</value>
+      <webElementGuid>951a0f59-28bc-4a40-8720-bfc3b2813d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Test.allTheThings() T-Shirt (Red)']</value>
+      <webElementGuid>ca6d81d5-27ea-46d8-8f65-d7874d57f9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a/img</value>
+      <webElementGuid>bfc2fa52-8e8d-4261-97a5-bb82cc4c7902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Test.allTheThings() T-Shirt (Red)' and @src = '/static/media/red-tatt-1200x1500.e32b4ef9.jpg']</value>
+      <webElementGuid>601c342f-5d86-4183-8450-1e326299ec96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

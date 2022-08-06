@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Remove_inventory_item_img</name>
+   <tag></tag>
+   <elementGuidId>30f043a1-9c8d-4a55-ab8d-4e828b55e90f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='item_0_img_link']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item_0_img_link > img.inventory_item_img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ac4893d0-f7f6-461c-a227-6e5be034f8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sauce Labs Bike Light</value>
+      <webElementGuid>a304f5ec-69bd-438c-8c92-7a4c1ba7cb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_img</value>
+      <webElementGuid>f1a874a2-e727-4271-94df-dac038383030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/bike-light-1200x1500.a0c9caae.jpg</value>
+      <webElementGuid>6f5617c1-fb00-4390-a538-7bcafdc24984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_0_img_link&quot;)/img[@class=&quot;inventory_item_img&quot;]</value>
+      <webElementGuid>3fb54281-f2d1-4b2a-856e-671b0dc8bf46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='item_0_img_link']/img</value>
+      <webElementGuid>c69cc65f-a9af-402b-b880-d1da5867f4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::img[1]</value>
+      <webElementGuid>d387bf53-5cca-46d1-98b0-eca52b83e7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::img[1]</value>
+      <webElementGuid>231d6b0a-1b97-4b03-bbf2-aa0ae6cc9224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Bike Light'])[1]/preceding::img[1]</value>
+      <webElementGuid>b95eeb91-42f8-4e13-b371-18284a332e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/preceding::img[1]</value>
+      <webElementGuid>003237af-2ad7-483a-b995-85157c6df91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sauce Labs Bike Light']</value>
+      <webElementGuid>8aaf421d-fe1f-4296-9fff-5c925429d855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>7be5aade-736c-4899-84e4-0df34c19febf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Sauce Labs Bike Light' and @src = '/static/media/bike-light-1200x1500.a0c9caae.jpg']</value>
+      <webElementGuid>00772ca4-3e08-4d2f-a67c-9bf69c1fa3cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
