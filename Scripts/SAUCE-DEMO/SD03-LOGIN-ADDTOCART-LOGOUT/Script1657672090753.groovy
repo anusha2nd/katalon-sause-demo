@@ -58,6 +58,8 @@ WebUI.click(findTestObject('Object Repository/SAUCE-DEMO/Page_Swag Labs/button_F
 
 WebUI.click(findTestObject('Object Repository/SAUCE-DEMO/Page_Swag Labs/button_Back Home'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/SAUCE-DEMO/Page_Swag Labs/button_Open Menu'))
 
 WebUI.click(findTestObject('Object Repository/SAUCE-DEMO/Page_Swag Labs/a_Logout'))
